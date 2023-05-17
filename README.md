@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **Edmund0/Edmund0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Technology Stacks
+# Hello, I'm Edmund
+
+I am a highly-motivated and detail-oriented Front-End Developer with a strong passion for creating engaging and user-friendly web experiences. Seeking to leverage my technical skills and creativity to contribute to the success of a dynamic organization.
+
+## Contact Information
+
+## Technology Stacks
 
 - [ ] Language: HTML5, CSS3, Javascript
 - [ ] Frameworks: ExpressJS, TailwindCSS, ReactJS
