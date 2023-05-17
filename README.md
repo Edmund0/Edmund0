@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Technology Stacks
+
+- [ ] Language: HTML5, CSS3, Javascript
+- [ ] Frameworks: ExpressJS, TailwindCSS, ReactJS
+- [ ] Other Tools: Node, Webpack, JEST, SASS
