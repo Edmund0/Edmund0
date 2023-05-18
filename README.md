@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 I am a highly-motivated and detail-oriented Front-End Developer with a strong passion for creating engaging and user-friendly web experiences. Seeking to leverage my technical skills and creativity to contribute to the success of a dynamic organization.
 
 ## Contact Information
+- [Linkedin](https://www.linkedin.com/in/chigoziem-edmund-ofili-689b14124/)
+- [Email](goziem.ofili@gmail.com) 
+
 
 ## Technology Stacks
 
