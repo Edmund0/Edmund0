@@ -26,5 +26,6 @@ I am a highly-motivated and detail-oriented Front-End Developer with a strong pa
 ## Technology Stacks
 
 - [ ] Language: HTML5, CSS3, Javascript
-- [ ] Frameworks: ExpressJS, TailwindCSS, ReactJS
+- [ ] Frameworks: ExpressJS, TailwindCSS, ReactJS, NextJS
 - [ ] Other Tools: Node, Webpack, JEST, SASS
+- [ ] Repositories: Git, GitHub, BitBucket
