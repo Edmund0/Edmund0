@@ -20,7 +20,12 @@ I am a highly-motivated and detail-oriented Front-End Developer with a strong pa
 
 ## Contact Information
 - [Linkedin](https://www.linkedin.com/in/chigoziem-edmund-ofili-689b14124/)
-- [Email](goziem.ofili@gmail.com) 
+- [Email](goziem.ofili@gmail.com)
+
+## 🔭 I’m currently working on
+- [Full-Stack App](https://bank-recon-frontend.vercel.app) 
+Note: Please give the backend some time to restart as it is hosted using a free version. If you attempt to signup, the process would initially fail. It requires about 5 mins for it finish restarting after the first initial failed attempt.
+
 
 
 ## Technology Stacks
