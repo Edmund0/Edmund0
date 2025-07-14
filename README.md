@@ -23,7 +23,7 @@ I am a highly-motivated and detail-oriented Front-End Developer with a strong pa
 - [Email](goziem.ofili@gmail.com)
 
 ## 🔭 I’m currently working on
-- [Full-Stack App](https://bank-recon-frontend.vercel.app): If you attempt to signup, the process would initially fail. This is because the backend is hosted using the free version of render.com which deactivates the servers after some time of inactivity. Please give the backend some time to restart. It requires about 5 mins for it finish restarting after the first initial failed attempt.
+- [Full-Stack App](https://bank-recon-frontend.vercel.app): If you attempt to signup, the process would initially fail. This is because the backend is hosted using the free version of render.com which deactivates the servers after some time of inactivity. Please give the backend some time to restart. It requires about 5 mins for it to finish restarting after the first initial failed attempt.
 
 
 
